@@ -8,3 +8,5 @@ master
 feature
 
 to ensure the updation on github
+
+clone
